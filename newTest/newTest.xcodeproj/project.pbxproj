@@ -15,8 +15,6 @@
 		7ADFAA681FEC5CB0000D5DD8 /* newTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = newTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7ADFAA6B1FEC5CB0000D5DD8 /* newTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = newTest.h; sourceTree = "<group>"; };
 		7ADFAA6C1FEC5CB0000D5DD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7ADFAA761FEC5CB0000D5DD8 /* newTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newTestTests.swift; sourceTree = "<group>"; };
-		7ADFAA781FEC5CB0000D5DD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7ADFAA821FEC5CC8000D5DD8 /* newTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -35,7 +33,6 @@
 			isa = PBXGroup;
 			children = (
 				7ADFAA6A1FEC5CB0000D5DD8 /* newTest */,
-				7ADFAA751FEC5CB0000D5DD8 /* newTestTests */,
 				7ADFAA691FEC5CB0000D5DD8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -56,15 +53,6 @@
 				7ADFAA6C1FEC5CB0000D5DD8 /* Info.plist */,
 			);
 			path = newTest;
-			sourceTree = "<group>";
-		};
-		7ADFAA751FEC5CB0000D5DD8 /* newTestTests */ = {
-			isa = PBXGroup;
-			children = (
-				7ADFAA761FEC5CB0000D5DD8 /* newTestTests.swift */,
-				7ADFAA781FEC5CB0000D5DD8 /* Info.plist */,
-			);
-			path = newTestTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
