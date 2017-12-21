@@ -9,6 +9,9 @@
 import Foundation
 
 open class newTest {
+    
+    public init () {}
+    
     public func sayHi() {
         print("Hi!")
     }
